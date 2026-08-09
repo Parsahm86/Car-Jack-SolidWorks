@@ -12,11 +12,11 @@ This project is a fully functional, manufacturable car jack assembly. It include
 ## Files Included
 *   `/SolidWorks_Files/`: Contains all original `.sldprt`, `.sldasm`, and `.slddrw` files.
 *   `Drawing_Files.pdf`: A complete 12-page PDF containing 2D manufacturing drawings, Bill of Materials (BOM), and an Exploded View.
-*   `Cover_Image.png`: A high-quality render of the final assembly.
+*   `Cover_Image.jpg`: A high-quality render of the final assembly.
 
 ## Technical Features
 *   **Material Selection:**
-    *   Sheet metal parts: St37-2 (S235JR) / AISI 1023.
+    *   Sheet parts: St37-2 (S235JR) / AISI 1023.
     *   Machined parts (Pins, Screws, Nuts): AISI 1045 / AISI 4140.
 *   **Threads:** Standard Metric (M), DIN standard, and Trapezoidal (Tr) threads for the power screw.
 *   **Tolerances:** Applied MMC (Maximum Material Condition) for mating holes to reduce manufacturing costs.
